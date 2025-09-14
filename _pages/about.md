@@ -42,13 +42,14 @@ We organize creative events inspired by animated works, offering peers opportuni
 ### My Awards：
 * Global Future Space Scholars Meet (GFSSM) Best Innovation Award
 * Brainbee National Gold & National top 14
-* The Spirit of BNDS Scholarship, overall GPA, Club, and daily performance ranked top 7 out of a total of 251 students at the school
+* The Spirit of BNDS Scholarship: overall GPA, Club, and daily performance ranked top 7 out of a total of 251 students at the school
 * Distinguished Student Award
 * Star Student of the Month
-* Masterful Researchers
+* Masterful Researcher
 * First Prize in the Jinpeng Science Forum
 * Third Prize in the 44th Beijing Youth Science Creation Competition
 * JLPT-N5
 * IPsyO China top 5 & Highest distinction
 * John Locke
+  
 ***
