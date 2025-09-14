@@ -5,12 +5,12 @@ permalink: /about/
 image: user.jpg
 ---
 
-Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan of detective-themed works and Japanese animation. I have been a fan of the classic Japanese detective anime "Detective Conan" for six years. For academics, I am interested in psychology and Japanese cultural & animation studies.
+Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan of detective-themed works and Japanese animation. In particular, I have been a fan of the classic Japanese detective anime "Detective Conan" for six years. For academics, I am interested in psychology and Japanese cultural & animation studies.
 
 *These are some of my treasured anime merchandise.*
 ![](/images/about_1.jpg)<br>
 
-I wanted to combine my obsession for Japanese anime with my academic interest: Psychology. This is how I established the Animation Therapy Program.
+I wanted to combine my love for Japanese anime with my academic interest: Psychology. This is how I established the Animation Therapy Program.
 
 ***
 ### Animation Therapy Program (ATP)
@@ -19,7 +19,7 @@ I founded the Animation Therapy Program (ATP) to use animation as a creative med
 We analyze animated films in detail, connecting storylines with psychological theories. For instance, for the anime My Neighbor Totoro, we explored how the characters’ coping mechanisms and family relationships reflect children’s emotional resilience, providing insights into handling stress and anxiety.
 
 ![](/images/about_2.jpg)<br>
-*Sharing psychological implications of anime at the school cinema.*
+*Sharing the psychological implications of anime at the school cinema.*
 
 #### Review Writing & Publication
 Members collaboratively publish one review per month, highlighting how animation portrays themes such as resilience, grief, or identity. These reviews encourage open conversations about mental health in our school.
@@ -27,7 +27,7 @@ Members collaboratively publish one review per month, highlighting how animation
 #### “Take What You Need” Sticker Series
 I design and distribute stickers featuring images from animated movies as backgrounds, paired with inspiring or healing quotes from the films. Students can take these stickers to use as bookmarks or place them in notebooks. The series is called “Take What You Need” because participants are invited to pick the quote or message that resonates with them most, allowing them to receive personal encouragement and motivation whenever they need it.
 ![](/images/about_3.jpg)<br>
-*The stickers shared to classmates*
+*The stickers shared with classmates*
 
 #### Documentary Production
 Partnering with the school photography club, we film documentaries capturing how students relate animation to their own struggles, making psychological ideas visible and relatable.
