@@ -5,7 +5,7 @@ date:   2024-06-25
 image:  post_15.jpg
 tags:   Poem
 ---
-<font color= #0000ff>*The Queen:*</font><br>
+*The Queen:*
 As a little girl, I was ugly, a plain Jane, I'd say,<br>
 Mocked and teased, every bitter day.<br>
 I was forgotten out of view,<br>
@@ -44,7 +44,7 @@ I'll play the game till the very end.<br>
 For in the end, beauty is power, it's true,<br>
 And I'll make sure that power belongs to me and me alone.<br>
 
-<font color= #0000ff>*Snow White:*</font> <br>
+*Snow White:*
 In the realm of my birth, a princess fair,<br>
 With skin as white as snow, hair black as night's despair.<br>
 A world where beauty rules, and few dare to defy,<br>
@@ -81,3 +81,4 @@ Let the Mirror shatter into a thousand shards,<br>
 As I embrace the real me, unmasked and unafraid.<br>
 For in this life, I'll write my own tale,<br>
 Where beauty fails and love prevails.<br>
+
