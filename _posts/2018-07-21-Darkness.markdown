@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "A Poem - Darkness"
+date:   2018-07-21
+image:  post_16.jpg
+tags:   Poem
+---
+In the room, by the desk, darkness hides<br>
+During the day, sunlight chases it away<br>
+At night, the desk lamp bullies it<br>
+It hides in the cupboard, as if crying<br>
+
+The books jump into the cupboard, saying: “I’ll stay with you.”<br>
