@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-image: about_0.jpg
+image: user.jpg
 ---
 
 Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan of detective-themed works and Japanese animation. I have been a fan of the classic Japanese detective anime "Detective Conan" for six years. For academics, I am interested in psychology and Japanese cultural & animation studies.
