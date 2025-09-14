@@ -51,7 +51,7 @@ During my high school study, I conducted in-depth investigation and research on 
   <details>
    <summary>See Abstract</summary>
    <pre>
-  Abstract: In this study, I discussed the pros and cons on providing school-based mental health services baased on a comprehensive survey of existing research on the related topic.
+  Abstract: The COVID-19 pandemic has led to a significant rise in mental health issues, especially among teenagers. This paper discusses whether schools can provide effective mental health services to help address this problem. Schools are a key part of young people’s lives, and offering support in this setting may make it easier for students to get help, reduce shame around mental health, and allow staff to observe and support students in their daily environment. However, there are challenges such as limited time and resources, a lack of trained staff, and concerns about parental consent and rights. While school-based mental health services show promise, more attention is needed to improve training, secure parent agreement, and better integrate these services into the school system.
   </pre>
   </details>
   
