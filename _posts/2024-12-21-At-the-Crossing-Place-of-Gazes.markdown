@@ -55,5 +55,4 @@ The figures and scenes in this essay come from several of Lu Xun’s works:
 * Call to Arms (呐喊), his first short story collection, where in the preface he speaks of writing as a cry to awaken the people trapped in an “iron house” of numbness.
 
 Together, these works form not only a mirror of early 20th-century Chinese society but also a timeless reflection on human indifference, dignity, and the power of bearing witness.
-</font>
 ***
