@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Snow White Tale - A Reinvention
+title:  Snow White - Tale Reinvention
 date:   2024-06-24 15:01:35 +0300
 image:  post_3.jpg
 tags:   article
