@@ -36,7 +36,7 @@ During my high school study, I conducted in-depth investigation and research on 
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/Artificial%2BIntelligent%2Bin%2BEducation%2Band%2Bits%2BEffects.pdf "Artificial Intelligence in Education and Its Effects")
 
 * Title: Reasonability of implementing Gender-Fair Languages based on evaluation<br>
-  Author: **Lou, J.**, Wang, V., Yang, V., Zhuo, E.<br>
+  Author: **Jiaxu Lou**, Zisheng Wang, Zhongqi Yang, Rongtai Zhuo<br>
   <details>
    <summary>See Abstract</summary>
    <pre>
