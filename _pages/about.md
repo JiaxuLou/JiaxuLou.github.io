@@ -10,6 +10,8 @@ Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan 
 *These are some of my treasured anime merchandise.*
 ![](/images/about_1.jpg)<br>
 
+I wanted to combine my obsession for Japanese anime with my academic interest: Psychology. This is how I established the Animation Therapy Program.
+
 ***
 ### Animation Therapy Program (ATP)
 I founded the Animation Therapy Program (ATP) to use animation as a creative medium for raising mental health awareness and fostering emotional healing. Inspired by the way animated films often reflect deep psychological themes, I wanted to create a platform where students could analyze stories, connect them with real-life struggles, and explore healthier ways of expressing themselves. Today, ATP has **over 80 participants**, and our work proves that animation can foster empathy, spark dialogue on mental health, and bring healing through creativity.
@@ -49,7 +51,7 @@ We organize creative events inspired by animated works, offering peers opportuni
 * First Prize in the Jinpeng Science Forum
 * Third Prize in the 44th Beijing Youth Science Creation Competition
 * JLPT-N5
-* IPsyO China top 5 & Highest distinction
+* International Psychology Olympiad China top 5 & Highest distinction
 * John Locke
   
 ***
