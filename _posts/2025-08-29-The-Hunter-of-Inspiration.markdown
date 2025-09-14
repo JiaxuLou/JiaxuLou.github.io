@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Hunter of Inspiration"
-date:   2025-08-29
+date:   2022-08-29
 image:  post_13.jpg
 tags:   article
 ---
@@ -14,3 +14,4 @@ First, we can seize “highlight moments” in our daily lives. Take J.K. Rowlin
 We can also try looking from another perspective. For example, while writing this piece, I asked myself: what should I write? After thinking hard, I had no ideas. That’s because inspiration always reveals itself unintentionally; when we deliberately seek it, it often eludes us. So sometimes it’s better to step outside the current perspective. That’s how I decided to write this article about how to find inspiration. The result proves that stepping outside one’s mental frame can bring unexpected surprises.
 
 Finally, I want to say: it’s okay if inspiration hasn’t come yet. Inspiration will always come, and it will always belong to you. If one day, after endless hiding and seeking, you finally find it, that’s wonderful. But even if it doesn’t appear, the moonlight, sunsets, books, paper, music, and rhythm are enough. Continue doing what you love. Inspiration belongs to everyone, to everyone who loves life. The joy and delight it brings from deep within are life’s greatest gifts.
+
