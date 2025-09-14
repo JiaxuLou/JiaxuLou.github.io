@@ -45,7 +45,6 @@ And yet, in that abyss, his gaze lit a spark: the belief that even within the ir
 
 ***
 #### Background: About Lu Xun and the Works Mentioned
-<font color= #c0c0c0 size=2>
 *Lu Xun* (1881–1936) is one of modern China’s most influential writers and thinkers, known for his sharp critiques of social apathy and injustice. His stories often expose the cruelty and ignorance hidden in ordinary life, aiming to awaken the conscience of his readers.
 
 The figures and scenes in this essay come from several of Lu Xun’s works:
