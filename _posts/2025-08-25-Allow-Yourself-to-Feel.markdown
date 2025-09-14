@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Allow Yourself to Feel"
-date:   2025-08-25
+date:   2022-08-25
 image:  post_12.jpg
 tags:   article
 ---
@@ -14,3 +14,4 @@ Reading this article resonated deeply with me. Emotional education is almost com
 But the article also has a second part. Later, Mark’s uncle asked him a simple question: “Kid, how do you feel?” In an instant, the dam inside Mark burst, and his emotions rushed out. I loved a line from the article: “For the first time in his life, an adult truly allowed him to ‘feel.’” That afternoon, his uncle’s genuine question opened a heart that had been tightly shut for so long. His uncle sincerely wanted to know the answer and listened quietly, without judgment.
 
 Often, when we most need care, emotional support is at its lowest. Because of the type of emotional education mentioned earlier, we may push away those who care at critical moments. So, to break this strange pattern, allow yourself to feel. Face your emotions, learn ways to cope, and let yourself be a little happier!
+
