@@ -20,6 +20,9 @@ author:
 instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 instagram-profile: artemsheludko_ # Add instagram username
 
+#-------------------------------
+# Post share
+post-share-enable: false # To enable the post sharing, use the value true. To turn off use the value false.
 
 #-------------------------------
 # Google Analytics
