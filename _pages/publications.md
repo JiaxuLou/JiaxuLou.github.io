@@ -10,7 +10,7 @@ During my high school study, I conducted in-depth investigation and research on 
 ***
 
 ## Research Publications
-#### :books: Title: Anchoring Bias in Large Language Models: An Experimental Study <br>
+#### Title: Anchoring Bias in Large Language Models: An Experimental Study <br>
    Author: **Jiaxu Lou**, Yifan Sun<br>
    <details>
    <summary>See Abstract</summary>
@@ -24,7 +24,7 @@ During my high school study, I conducted in-depth investigation and research on 
 ***
 
 ## Other Research Studies
-* :books: Title: Artificial Intelligence in Education and Its Effects<br>
+* Title: Artificial Intelligence in Education and Its Effects<br>
   Author: Jiaxu Lou<br>
   <details>
    <summary>See Abstract</summary>
@@ -35,7 +35,7 @@ During my high school study, I conducted in-depth investigation and research on 
 
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/Artificial%2BIntelligent%2Bin%2BEducation%2Band%2Bits%2BEffects.pdf "Artificial Intelligence in Education and Its Effects")
 
-* :books: Title: Reasonability of implementing Gender-Fair Languages based on evaluation<br>
+* Title: Reasonability of implementing Gender-Fair Languages based on evaluation<br>
   Author: **Lou, J.**, Wang, V., Yang, V., Zhuo, E.<br>
   <details>
    <summary>See Abstract</summary>
@@ -46,7 +46,7 @@ During my high school study, I conducted in-depth investigation and research on 
 
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/Reasonability%2Bof%2Bimplementing%2BGender-Fair%2BLanguages%2Bbased%2Bon%2Bevaluation.pdf "Reasonability of implementing Gender-Fair Languages based on evaluation")
 
-* :books: Title: The Feasibility of Providing School-based Mental Health Services<br>
+* Title: The Feasibility of Providing School-based Mental Health Services<br>
   Author: Jiaxu Lou<br>
   <details>
    <summary>See Abstract</summary>
@@ -57,7 +57,7 @@ During my high school study, I conducted in-depth investigation and research on 
   
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/The%2BFeasibility%2Bof%2BProviding%2BSchool-based%2BMentalHealth%2BServices.pdf "The Feasibility of Providing School-based Mental Health Services")
 
-* :books: Title: 'No one can make you feel inferior without your consent.' Is she right?<br>
+* Title: 'No one can make you feel inferior without your consent.' Is she right?<br>
   Author: Jiaxu Lou<br>
   <details>
    <summary>See Abstract</summary>
@@ -68,7 +68,7 @@ During my high school study, I conducted in-depth investigation and research on 
   
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/No%2Bone%2Bcan%2Bmake%2Byou%2Bfeel%2Binferior%2Bwithout%2Byour%2Bconsent.pdf "'No one can make you feel inferior without your consent.' Is she right?")
 
-* :books: Title: The Role of the Medial Nucleus in Amygdala and PTSD<br>
+* Title: The Role of the Medial Nucleus in Amygdala and PTSD<br>
   Author: Jiaxu Lou<br>
   <details>
    <summary>See Abstract</summary>
