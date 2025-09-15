@@ -40,7 +40,7 @@ We organize creative events inspired by animated works, offering peers opportuni
 ![](/images/about_5.jpg)<br>
 *My exhibition*
 
-<iframe src="https://youtu.be/rNOHSlmmEGU" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/rNOHSlmmEGU" frameborder="0" allowfullscreen></iframe>
 
 *The video of the concert*
   
