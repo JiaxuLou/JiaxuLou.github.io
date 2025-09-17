@@ -40,8 +40,14 @@ We organize creative events inspired by animated works, offering peers opportuni
 ![](/images/about_5.jpg)<br>
 *My exhibition*
 
+***
+
+<iframe src="https://www.youtube.com/embed/fvtfqjj7DIA" frameborder="0" allowfullscreen></iframe>
+
+*The video of the activity "Take What You Need"*
+
 <iframe src="https://www.youtube.com/embed/rNOHSlmmEGU" frameborder="0" allowfullscreen></iframe>
 
-*The video of the concert*
-  
+*The video of the animation therapy themed concert*
+
 ***
