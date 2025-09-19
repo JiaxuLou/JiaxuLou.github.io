@@ -26,6 +26,7 @@ Members collaboratively publish one review per month, highlighting how animation
 
 #### “Take What You Need” Sticker Series
 I design and distribute stickers featuring images from animated movies as backgrounds, paired with inspiring or healing quotes from the films. Students can take these stickers to use as bookmarks or place them in notebooks. The series is called “Take What You Need” because participants are invited to pick the quote or message that resonates with them most, allowing them to receive personal encouragement and motivation whenever they need it.
+
 ![](/images/about_3.jpg)<br>
 *The stickers shared with classmates*
 
@@ -34,6 +35,7 @@ Partnering with the school photography club, we film documentaries capturing how
 
 #### Concerts & Exhibitions
 We organize creative events inspired by animated works, offering peers opportunities to express emotions through art, music, and shared experiences.
+
 ![](/images/about_4.jpg)<br>
 *Our concert, and all my co-workers & performers*
 
@@ -46,6 +48,7 @@ We organize creative events inspired by animated works, offering peers opportuni
 <iframe src="https://www.youtube.com/embed/fvtfqjj7DIA" frameborder="0" allowfullscreen></iframe>
 
 <br>
+&nbsp;
 
 *The video of the animation therapy themed concert*<br>
 <iframe src="https://www.youtube.com/embed/rNOHSlmmEGU" frameborder="0" allowfullscreen></iframe>
