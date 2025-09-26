@@ -5,10 +5,16 @@ permalink: /about/
 image: user.jpg
 ---
 
-Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan of detective-themed works and Japanese animation. In particular, I have been a fan of the classic Japanese detective anime "Detective Conan" for six years. For academics, I am interested in psychology and Japanese cultural & animation studies.
+Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan of detective-themed works and Japanese animation. In particular, I have been a fan of the classic Japanese detective anime "Detective Conan" for six years. Food and cooking are my passions. In the kitchen, I find happiness, focus, and a quiet rhythm of life. For academics, I am interested in psychology and Japanese cultural & animation studies.
 
 *These are some of my treasured anime merchandise.*
 ![](/images/about_1.jpg)<br>
+
+*I would take photos of every meal I ate*
+![](/images/food1.jpg)<br>
+
+*I love cooking*
+![](/images/food2.jpg)<br>
 
 I wanted to combine my love for Japanese anime with my academic interest: Psychology. This is how I established the Animation Therapy Program.
 
