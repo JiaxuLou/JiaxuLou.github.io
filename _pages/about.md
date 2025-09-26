@@ -10,10 +10,10 @@ Hi there! My name is Jiaxu Lou, and you can also call me Julia. I am a huge fan 
 *These are some of my treasured anime merchandise.*
 ![](/images/about_1.jpg)<br>
 
-*I would take photos of every meal I ate*
+*I would take photos of every meal I ate* <br>
 ![](/images/food1.jpg)<br>
 
-*I love cooking*
+*I love cooking* <br>
 ![](/images/food2.jpg)<br>
 
 I wanted to combine my love for Japanese anime with my academic interest: Psychology. This is how I established the Animation Therapy Program.
