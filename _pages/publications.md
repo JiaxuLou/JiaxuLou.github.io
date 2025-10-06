@@ -19,7 +19,7 @@ During my high school study, I conducted in-depth investigation and research on 
    </pre>
    </details>
    
-   Preprint: [arXiv:2412.06593](https://arxiv.org/abs/2412.06593 "Anchoring Bias in Large Language Models: An Experimental Study") ( 9+ citations based on Google Scholar)
+   Preprint: [arXiv:2412.06593](https://arxiv.org/abs/2412.06593 "Anchoring Bias in Large Language Models: An Experimental Study") ( 10+ citations according to Google Scholar)
 
 ***
 
