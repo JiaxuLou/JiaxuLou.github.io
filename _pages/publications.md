@@ -57,17 +57,6 @@ During my high school study, I conducted in-depth investigation and research on 
   
   Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/The%2BFeasibility%2Bof%2BProviding%2BSchool-based%2BMentalHealth%2BServices.pdf "The Feasibility of Providing School-based Mental Health Services")
 
-* Title: 'No one can make you feel inferior without your consent.' Is she right?<br>
-  Author: Jiaxu Lou<br>
-  <details>
-   <summary>See Abstract</summary>
-   <pre>
-  Abstract: This is my *John Locke Competition Essay*. This essay navigates the tension between cognitive psychology and neurobiology by integrating both into the temporal model of emotional evaluation. Conceding that initial emotional spikes following a negative event may elude conscious control, this essay maintains that enduring feelings of inferiority demand sustained cognitive acquiescence. Through this prism, Eleanor Roosevelt’s “consent to feel inferior” is not a categorical denial of automatic emotional reflexes. Instead, it is a call to harness individual agency and seize the reins of our own emotional narrative—to transcend our biological programming, in a way, by cognitively reappraising objective events to tamp down embers of inferiority.
-  </pre>
-  </details>
-  
-  Paper: [link](https://github.com/JiaxuLou/LLM_Bias/blob/main/pdf/No%2Bone%2Bcan%2Bmake%2Byou%2Bfeel%2Binferior%2Bwithout%2Byour%2Bconsent.pdf "'No one can make you feel inferior without your consent.' Is she right?")
-
 * Title: The Role of the Medial Nucleus in Amygdala and PTSD<br>
   Author: Jiaxu Lou<br>
   <details>
