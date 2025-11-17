@@ -5,7 +5,7 @@ permalink: /research/
 image: publication.jpg
 ---
 
-During my high school study, I conducted in-depth investigation and research on some topics in AI, psychology and neuroscience. Here are a list of my studies.
+During my high school study, I conducted in-depth investigation and research on some topics in AI, neuroscience, and psychology. Here are a list of my studies.
 
 ***
 
